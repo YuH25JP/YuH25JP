@@ -24,10 +24,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuH25JP)](https://github.com/YuH25JP/github-readme-stats) -->
+<!--
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuH25JP&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YuH25JP&theme=tokyonight&show_icons=ture" />
+</p>
+-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuH25JP&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuH25JP&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YuH25JP&theme=radical&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuH25JP&theme=gruvbox)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuH25JP&theme=gruvbox)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuH25JP&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuH25JP&theme=gruvbox) -->
